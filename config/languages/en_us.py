@@ -1,0 +1,1 @@
+WELCOME = 'Welcome to use The Comprehensive Kerbal Archive Network.'
